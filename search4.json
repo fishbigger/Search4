@@ -1,0 +1,131 @@
+{
+"sites": {
+    "About Me": {
+      "URL": "https://about.me/{{ username }}"
+    },
+    "Blogger": {
+      "URL": "https://{{ username }}.blogspot.com"
+    },
+    "BugCrowd": {
+      "URL": "https://BugCrowd.com/{{ username }}"
+    },
+    "Buzzfeed": {
+      "URL": "https://buzzfeed.com/{{ username }}"
+    },
+    "Canva": {
+      "URL": "https://www.canva.com/{{ username }}"
+    },
+    "CodePen": {
+      "URL": "https://codepen.io/{{ username }}"
+    },
+    "Crunchyroll": {
+      "URL": "https://www.crunchyroll.com/user/{{ username }}"
+    },
+    "Dailymotion": {
+      "URL": "https://www.dailymotion.com/{{ username }}"
+    },
+    "Dev.to": {
+      "URL": "https://dev.to/{{ username }}"
+    },
+    "FaceBook": {
+      "URL": "https://www.facebook.com/{{ username }}"
+    },
+    "Flickr": {
+      "URL": "https://flickr.com/photos/{{ username }}"
+    },
+    "Giphy": {
+      "URL": "https://giphy.com/{{ username }}"
+    },
+    "Github": {
+      "URL": "https://github.com/{{ username }}"
+    },
+    "GoodReads": {
+      "URL": "https://www.goodreads.com/{{ username }}"
+    },
+    "HackerOne": {
+      "URL": "https://hackerone.com/{{ username }}"
+    },
+    "Instagram": {
+      "URL": "https://www.instagram.com/{{ username }}/"
+    },
+    "Imgur": {
+      "URL": "https://imgur.com/user/{{ username }}"
+    },
+    "Kaggle": {
+      "URL": "https://www.kaggle.com/{{ username }}"
+    },
+    "Medium": {
+      "URL": "https://medium.com/@{{ username }}"
+    },
+    "MyAnimeList": {
+      "URL": "https://myanimelist.net/profile/{{ username }}"
+    },
+    "MySpace": {
+      "URL": "https://myspace.com/{{ username }}"
+    },
+    "Scratch": {
+      "URL": "https://scratch.mit.edu/users/{{ username }}"
+    },
+    "Slack": {
+      "URL": "https://{{ username }}.slack.com"
+    },
+    "Spotify": {
+      "URL": "https://open.spotify.com/user/{{ username }}"
+    },
+    "Photobucket": {
+      "URL": "https://photobucket.com/user/{{ username }}/library"
+    },
+    "Reddit": {
+      "URL": "https://www.reddit.com/user/{{ username }}"
+    },
+    "Repl.it": {
+      "URL": "https://repl.it/@{{ username }}"
+    },
+    "Soundcloud": {
+      "URL": "https://soundcloud.com/{{ username }}"
+    },
+    "Sourceforge": {
+      "URL": "https://sourceforge.net/u/{{ username }}"
+    },
+    "Pastebin": {
+      "URL": "https://pastebin.com/u/{{ username }}"
+    },
+    "Patreon": {
+      "URL": "https://www.patreon.com/{{ username }}",
+      "SelectorName": "Patrons",
+      "Selector": "#renderPageContentWrapper > div.sc-fzoLsD.iMUByN > div.sc-fzoCUK.eMcsGu > div > div:nth-child(3) > div > div > div > div.sc-fzoLsD.iZcQPd > div > div > h2"
+    },
+    "Quora": {
+      "URL": "https://www.quora.com/profile/{{ username }}"
+    },
+    "Tumblr": {
+      "URL": "https://{{ username }}.tumblr.com"
+    },
+    "Twitch": {
+      "URL": "https://m.twitch.tv/{{ username }}"
+    },
+    "Twitter": {
+      "URL": "https://twitter.com/{{ username }}",
+      "SelectorName": "Followers",
+      "Selector": "#react-root > div > div > div.css-1dbjc4n.r-18u37iz.r-13qz1uu.r-417010 > main > div > div > div > div > div > div:nth-child(2) > div > div > div:nth-child(1) > div > div.css-1dbjc4n.r-13awgt0.r-18u37iz.r-1w6e6rj > div:nth-child(2) > a > span.css-901oao.css-16my406.r-jwli3a.r-poiln3.r-b88u0q.r-bcqeeo.r-qvutc0 > span"
+    },
+    "Unsplash": {
+      "URL": "https://unsplash.com/@{{ username }}"
+    },
+    "Wikipedia": {
+      "URL": "https://www.wikipedia.org/wiki/User:{{ username }}"
+    },
+    "Vimeo": {
+      "URL": "https://vimeo.com/{{ username }}"
+    },
+    "VK": {
+      "URL": "https://m.vk.com/{{ username }}"
+    },
+    "VSCO": {
+      "URL": "https://vsco.co/{{ username }}/images/1"
+    },
+    "YouTube": {
+      "URL": "https://www.youtube.com/c/{{ username }}"
+    }
+  }
+}
